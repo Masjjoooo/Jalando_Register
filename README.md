@@ -58,7 +58,7 @@ Feature Description
 1️⃣ Clone Repository
 
 ```bash
-git clone [https://github.com/Masjjoooo/Jalando_Register.git]
+git clone https://github.com/Masjjoooo/Jalando_Register.git
 cd Jalando-Register
 ```
 
@@ -100,7 +100,7 @@ email+3@gmail.com|password123|Budi Pratama|FAILED-429
 📁 Project Structure
 
 ```
-zalando-auto-register/
+Jalando-Register/
 │
 ├── mantap.py         # Main script
 ├── akun.txt          # Output hasil registrasi (auto-generated)
@@ -178,9 +178,10 @@ This tool is for EDUCATIONAL PURPOSES ONLY.
 
 <div align="center">
 
-💖 Made with Passion by @masjjoooo
+💖 Made with Passion by @Masjjoooo
 
 ⭐ Jangan lupa kasih bintang kalau bermanfaat! ⭐
 
 </div>
 
+---
