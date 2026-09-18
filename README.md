@@ -58,8 +58,8 @@ Feature Description
 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/zalando-auto-register.git
-cd zalando-auto-register
+git clone [https://github.com/Masjjoooo/Jalando_Register.git]
+cd Jalando-Register
 ```
 
 2️⃣ Install Dependencies
@@ -71,14 +71,14 @@ pip install requests
 3️⃣ Run Script
 
 ```bash
-python register.py
+python mantap.py
 ```
 
 ---
 
 🚀 Usage
 
-1. Jalankan script dengan perintah python register.py
+1. Jalankan script dengan perintah python mantap.py
 2. Masukkan data yang diminta:
    · Email → Base email (contoh: user@gmail.com)
    · Secret → Password akun
@@ -102,7 +102,7 @@ email+3@gmail.com|password123|Budi Pratama|FAILED-429
 ```
 zalando-auto-register/
 │
-├── register.py       # Main script
+├── mantap.py         # Main script
 ├── akun.txt          # Output hasil registrasi (auto-generated)
 ├── README.md         # Documentation
 └── requirements.txt  # Python dependencies
